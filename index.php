@@ -10,10 +10,77 @@
 
 class youtube{
 
+public $variable = "sdfsddfsfsdfdf";
 
 
 
 }
+
+$dks=new youtube();
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
